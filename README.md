@@ -1,1 +1,1 @@
-[<img src="wordle.png">]
+<img src="wordle.png">
